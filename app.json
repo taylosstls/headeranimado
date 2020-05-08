@@ -1,0 +1,17 @@
+{
+  "name": "MeuHeaderAnimado",
+  "displayName": "MeuHeaderAnimado",
+  "expo": {
+    "name": "MeuHeaderAnimado",
+    "slug": "MeuHeaderAnimado",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
